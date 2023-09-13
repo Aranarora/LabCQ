@@ -9,7 +9,7 @@
 - Code should be divided into small parts visible and clear.
 - Code operation should be understandable.
 - Try to write down robust code
-- Tested code or not
+- Tested the code is running properly
 - Code is well-documented through comments and commits.
 
 ## Worklevel - 3.5
