@@ -9,8 +9,11 @@
 - Code should be divided into small parts, visible and apparent. 
 - Code operation should be understandable.
 - Try to write down robust code
-- Tested the code is running properly
+- Tested the code should be testable
 - Code is well-documented through comments and commits.
+- Well formatted:
+- - White spacing
+  - Same format
 
 ## Work level - 3.5
 
